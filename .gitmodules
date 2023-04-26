@@ -1,0 +1,6 @@
+[submodule "workspace/bert-book"]
+	path = workspace/bert-book
+	url = https://github.com/stockmarkteam/bert-book.git
+[submodule "workspace/practical-nlp-ja"]
+	path = workspace/practical-nlp-ja
+	url = https://github.com/oreilly-japan/practical-nlp-ja
